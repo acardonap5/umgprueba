@@ -5,4 +5,5 @@ main(){
 	// inicio
 	
 	cout<<"Hola mundo.."<<endl;
+	cout<<"Hola mundo 2.."<<endl;
 }
